@@ -56,6 +56,13 @@ dependencies = [
 ]
 
 [[package]]
+name = "sunset"
+version = "0.1.0"
+dependencies = [
+ "sycl-cart",
+]
+
+[[package]]
 name = "sycl-cart"
 version = "0.1.0"
 dependencies = [
